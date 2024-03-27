@@ -1,4 +1,4 @@
-module github.com/TuckerHoneycutt/Learning-GO/go-bookstore
+module github.com/TuckerHoneycutt/Learning-GO
 
 go 1.22.1
 
